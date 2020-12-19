@@ -1,4 +1,4 @@
-# List of color for visualization
+# Color collections for visualization
 
 Code reference > http://greenteapress.com/thinkpython/code/color_list.py
 
